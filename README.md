@@ -1,4 +1,4 @@
 cloudlabs.no
 ============
 
-cloudlabs.no & cloudlabsas.github.io/
+cloudlabs.no & cloudlabsas.github.io
